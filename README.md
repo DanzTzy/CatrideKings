@@ -18,7 +18,6 @@ Aplikasi ini adalah rancangan online store untuk penjualan produk dan spare part
 
 ## Teknologi
 
-(Daftar teknologi yang digunakan dalam proyek ini, misalnya:)
 - Frontend:
   - HTML
   - CSS
